@@ -1,0 +1,11 @@
+---
+title: "lecture2_test"
+author: "Ziyan Guo"
+date: "2026-06-16"
+output: pdf_document
+---
+```{r}
+y <- 4
+```
+ 
+ 
